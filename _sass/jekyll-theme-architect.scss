@@ -32,10 +32,10 @@ header {
 }
 
 header h1 {
-  width: 540px;
+  width: 600px;
   margin-top: 0;
   margin-bottom: 0.2em;
-  font-size: 52px;
+  font-size: 42px;
   font-weight: normal;
   line-height: 1;
   color: #fff;
@@ -46,7 +46,7 @@ header h2 {
   width: 540px;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 26px;
+  font-size: 24px;
   font-weight: normal;
   line-height: 1.3;
   color: #9ddcff;
@@ -112,6 +112,12 @@ header a.button {
   right: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
 }
+
+aside a {
+  font-size: 21px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+}
+
 aside a.button {
   display: block;
   width: 138px;
